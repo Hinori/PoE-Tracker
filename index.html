@@ -3,46 +3,78 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PoE 프로필 링크 관리자 - 개인정보처리방침</title>
+    <title>PoE 스트리머 트래커 개인정보처리방침</title>
     <style>
-        body { font-family: sans-serif; line-height: 1.6; padding: 20px; max-width: 800px; margin: 0 auto; }
-        h1 { border-bottom: 1px solid #ddd; padding-bottom: 10px; }
-        h2 { margin-top: 40px; }
-        code { background-color: #f4f4f4; padding: 2px 6px; border-radius: 4px; }
-        .last-updated { color: #888; margin-top: 50px; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            line-height: 1.6;
+            margin: 0 auto;
+            max-width: 800px;
+            padding: 20px;
+        }
+        h1, h2 {
+            border-bottom: 1px solid #ccc;
+            padding-bottom: 10px;
+        }
+        .container {
+            padding: 15px;
+            border: 1px solid #eee;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
     </style>
 </head>
 <body>
-    <h1>PoE 프로필 링크 관리자 - 개인정보처리방침</h1>
-    <p>본 개인정보처리방침은 'PoE 프로필 링크 관리자' 크롬 확장 프로그램(이하 '확장 프로그램')이 사용자의 정보를 수집하고 사용하는 방식에 대해 설명합니다.</p>
+    <div class="container">
+        <h1>PoE 스트리머 트래커 개인정보처리방침</h1>
+        <p><strong>시행일:</strong> 2025년 9월 12일</p>
 
-    <h2>1. 수집하는 정보</h2>
-    <p>확장 프로그램은 다음과 같은 정보를 수집하고 사용자의 컴퓨터에 저장합니다.</p>
-    <ul>
-        <li>사용자가 직접 입력한 Path of Exile 프로필(게임태그)</li>
-        <li>사용자가 직접 입력한 스트리밍 채널(Twitch, Chzzk, YouTube 등) URL</li>
-        <li>사용자가 직접 입력한 스트리머 이름</li>
-        <li>사용자가 지정한 아이콘 정보 (파일 업로드 시 Base64 텍스트, URL 입력 시 해당 URL)</li>
-    </ul>
+        <p>본 개인정보처리방침은 Hinori(이하 '개발자')가 개발한 'PoE 스트리머 트래커' 크롬 확장 프로그램(이하 '확장 프로그램')에 적용됩니다.</p>
 
-    <h2>2. 정보의 사용 목적</h2>
-    <p>수집된 모든 정보는 확장 프로그램의 핵심 기능, 즉 사용자가 즐겨찾는 링크 목록을 편리하게 관리하고 접근할 수 있도록 하는 목적으로만 사용됩니다.</p>
+        <h2>1. 수집하는 정보</h2>
+        <p>확장 프로그램은 서비스의 핵심 기능을 제공하기 위해 다음과 같은 정보를 사용자의 컴퓨터에 저장합니다. <strong>이러한 정보는 외부 서버로 전송되거나 개발자에게 공유되지 않습니다.</strong></p>
+        <ul>
+            <li><strong>사용자가 직접 입력하는 정보:</strong>
+                <ul>
+                    <li>Path of Exile 계정 이름</li>
+                    <li>스트리밍 채널 URL (Twitch, Chzzk, YouTube 등)</li>
+                    <li>스트리머 이름 (메모)</li>
+                    <li>프로필 아이콘 (이미지 URL 또는 파일 업로드를 통해 Base64로 변환된 데이터)</li>
+                </ul>
+            </li>
+        </ul>
+        <p>위 정보는 Chrome의 `storage.sync` API를 통해 사용자의 브라우저에 저장됩니다. 이는 사용자가 구글 계정에 로그인한 경우, 동일한 계정으로 로그인된 다른 기기에서도 목록을 동기화할 수 있도록 합니다.</p>
 
-    <h2>3. 정보의 저장 위치 및 기간</h2>
-    <p>모든 정보는 외부 서버로 전송되지 않으며, 오직 사용자의 계정 내 클라우드 저장 및 동기화(<code>chrome.storage.sync</code> API)에만 저장됩니다. 사용자가 확장 프로그램을 삭제하거나 저장된 항목을 직접 삭제할 경우, 해당 정보는 영구히 삭제됩니다.</p>
+        <h2>2. 정보의 사용 목적</h2>
+        <p>수집된 정보는 오직 다음의 목적을 위해서만 사용됩니다.</p>
+        <ul>
+            <li><strong>핵심 기능 제공:</strong> 사용자가 저장한 스트리머 목록을 확장 프로그램 팝업 및 관리 페이지에 표시합니다.</li>
+            <li><strong>바로가기 링크 제공:</strong> 저장된 정보를 바탕으로 스트리머의 PoE 프로필 및 방송 채널로 이동할 수 있는 링크를 제공합니다.</li>
+            <li><strong>실시간 방송 상태 확인:</strong> 사용자가 저장한 '치지직' 채널 URL을 바탕으로 치지직 공개 API에 방송 상태를 조회하여, 그 결과를 사용자에게 시각적으로 표시합니다. 이 과정에서 개인 식별 정보는 전송되지 않습니다.</li>
+            <li><strong>데이터 관리:</strong> 사용자가 자신의 데이터를 파일로 내보내거나(백업), 파일로부터 가져올 수 있는(복원) 기능을 제공합니다.</li>
+        </ul>
 
-    <h2>4. 정보의 제3자 제공</h2>
-    <p>확장 프로그램은 저장된 사용자 정보를 제3자에게 판매하거나 공유하지 않습니다.</p>
-    <ul>
-        <li><strong>치지직(Chzzk):</strong> 채널명, 채널Image(Icon), 라이브 상태 확인을 위해 채널 ID가 네이버의 치지직 API 서버로 전송됩니다.</li>
-    </ul>
-    <p>위 정보는 해당 스트리밍 채널의 방송 상태를 확인하는 목적 외에는 사용되지 않습니다.</p>
+        <h2>3. 정보의 공유 및 제3자 제공</h2>
+        <p><strong>개발자는 사용자가 저장한 어떠한 정보도 수집, 추적, 또는 제3자에게 판매하거나 공유하지 않습니다.</strong> 모든 데이터는 전적으로 사용자의 브라우저 내에 머무릅니다.</p>
+        <p>단, 확장 프로그램의 특정 기능은 사용자의 요청에 따라 외부 서비스와 통신할 수 있습니다.</p>
+        <ul>
+            <li><strong>치지직(Chzzk):</strong> 방송 상태 확인 및 채널 정보 자동 완성을 위해 치지직의 공개 API(`api.chzzk.naver.com`)와 통신합니다.</li>
+            <li><strong>GitHub:</strong> 사용자가 '개발자 GitHub에서 목록 업데이트' 기능을 실행할 경우에만, 추천 목록 파일을 받기 위해 `raw.githubusercontent.com`과 통신합니다.</li>
+        </ul>
+        <p>이러한 통신은 공개된 정보(Public Data)를 조회하기 위함이며, 사용자의 개인 프로필 목록이 해당 서버로 전송되는 일은 없습니다.</p>
 
-    <h2>5. 문의</h2>
-    <p>본 개인정보처리방침에 대해 궁금한 점이 있으시면 개발자에게 문의해 주시기 바랍니다.<br>
-    - 개발자: Hinori</p>
+        <h2>4. 정보의 보유 및 파기</h2>
+        <p>사용자가 저장한 모든 정보는 사용자가 확장 프로그램을 사용하고 있는 동안 브라우저 저장소에 보관됩니다. 사용자는 언제든지 관리 페이지에서 개별 프로필을 삭제하거나, 확장 프로그램을 삭제함으로써 모든 데이터를 영구적으로 파기할 수 있습니다.</p>
 
-    <p class="last-updated">최종 수정일: 2025년 9월 10일</p>
+        <h2>5. 사용자의 권리</h2>
+        <p>사용자는 자신의 데이터에 대한 완전한 통제권을 가집니다. 사용자는 확장 프로그램의 관리 페이지를 통해 언제든지 자신의 데이터를 조회, 수정, 삭제할 수 있습니다.</p>
 
+        <h2>6. 개인정보처리방침의 변경</h2>
+        <p>본 개인정보처리방침은 법령이나 서비스 변경에 따라 내용이 변경될 수 있습니다. 변경 사항이 발생할 경우, 웹 스토어 게시 페이지나 기타 공지 가능한 방법을 통해 사용자에게 알립니다.</p>
+
+        <h2>7. 문의하기</h2>
+        <p>본 개인정보처리방침이나 확장 프로그램에 대해 궁금한 점이 있으시면 개발자의 GitHub 페이지를 통해 문의해주시기 바랍니다.</p>
+        <p><strong>개발자:</strong> Hinori</p>
+    </div>
 </body>
 </html>
