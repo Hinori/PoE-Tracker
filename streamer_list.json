@@ -1,101 +1,167 @@
 [
   {
-    "icon": "https://nng-phinf.pstatic.net/MjAyMzEyMjJfMTU0/MDAxNzAzMjE4MDU3ODEw.gPSJuTrycKkOBAwCmir61i3g75FITYplUbistuPiPHIg.X210ilOta9MWJFJn5C9x4HXycVtkHZnjj1UdYTeqSiog.JPEG/unnamed.jpg",
-    "id": 1755952510213,
-    "isLive": false,
-    "liveCategory": null,
-    "poeProfile": "rrqnrl2#4755",
-    "streamUrl": "https://chzzk.naver.com/live/e12f8c8ed9925b297a496431929bcdb1",
-    "streamer": "게이머비누Gamerbinu"
-  },
-  {
-    "icon": "https://nng-phinf.pstatic.net/MjAyNDA2MjhfMjQ5/MDAxNzE5NTUzNzMyODQ2.WsmXee0tZzSznaTHAWuRuZKjh1lvueuffQ94NxWAbCEg.V9A2wE317KTr14vS1HrJh3UBZ5i7PYmNBCXBUFXV8Qkg.PNG/%ED%88%AC%EB%B3%84.png?type=f120_120_na",
-    "id": 1755367872077,
-    "isLive": false,
-    "liveCategory": null,
-    "poeProfile": "Twobyul#7829",
-    "streamUrl": "https://chzzk.naver.com/live/6dbe5f736cf47dbca1bc0c85c53070c7",
-    "streamer": "투별"
-  },
-  {
-    "icon": "https://nng-phinf.pstatic.net/MjAyNDAyMjZfMjU5/MDAxNzA4OTU1MDM1NDgz.FuRBV1guaiMo2G71Dj0QC1Fc0OBBEsqEjj-aZOEGzPUg.2LBtMx57nk3upEgAhBMmCwozdZlqDDgXwia6EoB-_D8g.JPEG/%EC%B1%84%EB%84%90%EC%95%84%ED%8A%B8.00_00_02_05.Still002.jpg",
-    "id": 1756173553710,
-    "isLive": false,
-    "liveCategory": null,
-    "poeProfile": "namsancoffee#1968",
-    "streamUrl": "https://chzzk.naver.com/live/0bb66c53d9435da1e87b4d8ab47fb1cf",
-    "streamer": "PoEasy"
-  },
-  {
-    "icon": "https://nng-phinf.pstatic.net/MjAyNDAyMDJfMTgw/MDAxNzA2ODA2MDkwODky.ocUV86CI5uIhDmpjMHO-bl243xlNyTCCaJ6qMAJZOx8g.tiz3LfWBroeR6JI2sqecg6jHiNIYGXWz5aLkk33CIJ0g.PNG/%EC%84%9C%EB%AF%B8%EB%88%84%EA%B8%B0-%EC%95%88%EA%B2%BD%EC%95%88%EC%93%B4-%ED%95%9C%EB%B3%B5-%EC%A0%84%EC%8B%A0-%EC%83%81%ED%88%AC.png",
-    "id": 1757947224528,
-    "isLive": false,
-    "liveCategory": null,
-    "poeProfile": "seominugi#1944",
-    "streamUrl": "https://chzzk.naver.com/live/4600a7ee5e91559465817f192c8ccbdb",
-    "streamer": "서미누기"
-  },
-  {
-    "icon": "https://nng-phinf.pstatic.net/MjAyNDAyMjBfMjI5/MDAxNzA4MzgzNDI3NjI2.-Jxe2rpGOObarVFM7vnxGgbtRcdwKO1uHguYiMZaVrIg.QUuumCQuW_DrDgs4dbjAirbTM0JwjbI3ozAt9a9k0jQg.JPEG/%ED%94%84%EB%A1%9C%ED%95%84.jpg",
-    "id": 1757947170840,
-    "isLive": false,
-    "liveCategory": null,
-    "poeProfile": "zellddo#4704",
-    "streamUrl": "https://chzzk.naver.com/live/6bc83d2a18d722a0b4d03917bde007d8",
-    "streamer": "젤또"
-  },
-  {
-    "icon": "https://nng-phinf.pstatic.net/MjAyMzEyMzBfODMg/MDAxNzAzOTI4NTE2OTA5.tdsCuRrrNN0R7w81K53PQyHPHLzlYEI0ZaatggaT-H8g.hxlOtW3saeBKMVW6OO_U9VRx-kncZNYQcaB4srkVkOog.JPEG/unnamed.jpg",
-    "id": 1756213312344,
-    "isLive": false,
-    "liveCategory": null,
-    "poeProfile": "호러방위대#4342",
-    "streamUrl": "https://chzzk.naver.com/live/59cbccdbc14b3e9318e0d477a35c64c5",
-    "streamer": "김호러"
-  },
-  {
     "icon": "https://nng-phinf.pstatic.net/MjAyMzEyMjFfMjcz/MDAxNzAzMTY2Nzk0NTE3.JTtpmvSs1KQnItzOVnTnU9JVBnUXVcVuLohS9-qrJ44g.lZ_dAPnqm_PMXCBOql4bXdZtm36ZAzQluvURvk2yMEAg.JPEG/KakaoTalk_20221109_075424182.jpg",
-    "id": 1756220708995,
+    "id": 1758306026498,
     "isLive": false,
     "liveCategory": null,
+    "poe1": 1,
+    "poe2": 0,
     "poeProfile": "두부부침#5879",
     "streamUrl": "https://chzzk.naver.com/live/505fba30fd817fef88d3274f807c4ff0",
     "streamer": "김김두부"
   },
   {
-    "icon": "https://nng-phinf.pstatic.net/MjAyNDAxMzFfMjg4/MDAxNzA2Njg2NjEwMDIw.0cPUCyFoWsWRtNOMiiLmfhbhB6JS8kNC1rtWCzxM_r0g.X8cm2iQ8wj686r_uxtlHchLcn-myg5kQpO9_bMjdazsg.PNG/Snipaste_2024-01-31_16-04-49.png",
-    "id": 1756213395475,
+    "icon": "https://nng-phinf.pstatic.net/MjAyMzEyMzBfODMg/MDAxNzAzOTI4NTE2OTA5.tdsCuRrrNN0R7w81K53PQyHPHLzlYEI0ZaatggaT-H8g.hxlOtW3saeBKMVW6OO_U9VRx-kncZNYQcaB4srkVkOog.JPEG/unnamed.jpg",
+    "id": 1758306026499,
     "isLive": false,
     "liveCategory": null,
+    "poe1": 1,
+    "poe2": 0,
+    "poeProfile": "호러방위대#4342",
+    "streamUrl": "https://chzzk.naver.com/live/59cbccdbc14b3e9318e0d477a35c64c5",
+    "streamer": "김호러"
+  },
+  {
+    "icon": "https://nng-phinf.pstatic.net/MjAyNDAxMzFfMjg4/MDAxNzA2Njg2NjEwMDIw.0cPUCyFoWsWRtNOMiiLmfhbhB6JS8kNC1rtWCzxM_r0g.X8cm2iQ8wj686r_uxtlHchLcn-myg5kQpO9_bMjdazsg.PNG/Snipaste_2024-01-31_16-04-49.png",
+    "id": 1758306026500,
+    "isLive": false,
+    "liveCategory": null,
+    "poe1": 1,
+    "poe2": 0,
     "poeProfile": "kimsinS2#1991",
     "streamUrl": "https://chzzk.naver.com/live/ebe04a33e5964fc45d9cb5c0fc9083aa",
     "streamer": "라그나게임채널"
   },
   {
-    "icon": "https://nng-phinf.pstatic.net/MjAyNDAxMDVfOSAg/MDAxNzA0NDUyMzE0MTMw.etHKWgVBvGv15S0CfnuV8VhPnbCBWvRIstogO6cRc6kg.PxnmEEh_NkPq91q8__G-FdjSoTsEnvnKThe-QXJWCWgg.JPEG/KakaoTalk_20191110_223924544.jpg",
-    "id": 1756220744402,
+    "icon": "https://nng-phinf.pstatic.net/MjAyNDAyMDJfMTgw/MDAxNzA2ODA2MDkwODky.ocUV86CI5uIhDmpjMHO-bl243xlNyTCCaJ6qMAJZOx8g.tiz3LfWBroeR6JI2sqecg6jHiNIYGXWz5aLkk33CIJ0g.PNG/%EC%84%9C%EB%AF%B8%EB%88%84%EA%B8%B0-%EC%95%88%EA%B2%BD%EC%95%88%EC%93%B4-%ED%95%9C%EB%B3%B5-%EC%A0%84%EC%8B%A0-%EC%83%81%ED%88%AC.png",
+    "id": 1758306026501,
     "isLive": false,
     "liveCategory": null,
+    "poe1": 1,
+    "poe2": 0,
+    "poeProfile": "seominugi#1944",
+    "streamUrl": "https://chzzk.naver.com/live/4600a7ee5e91559465817f192c8ccbdb",
+    "streamer": "서미누기"
+  },
+  {
+    "icon": "https://nng-phinf.pstatic.net/MjAyNDAxMDVfOSAg/MDAxNzA0NDUyMzE0MTMw.etHKWgVBvGv15S0CfnuV8VhPnbCBWvRIstogO6cRc6kg.PxnmEEh_NkPq91q8__G-FdjSoTsEnvnKThe-QXJWCWgg.JPEG/KakaoTalk_20191110_223924544.jpg",
+    "id": 1758306026502,
+    "isLive": false,
+    "liveCategory": null,
+    "poe1": 1,
+    "poe2": 0,
     "poeProfile": "stero2d#2708",
     "streamUrl": "https://chzzk.naver.com/live/bbbe06569e9685685217825ba53765c6",
     "streamer": "스테로이드"
   },
   {
     "icon": "https://nng-phinf.pstatic.net/MjAyMzEyMzBfNyAg/MDAxNzAzOTAwNzAxMzgw.qTuBO13G0B_56iile1fVTjztLQKzyq7PPpTuAXKGNb0g.7tN6YpGA9YCIoo2XDu_rVcScIxLML4DGVXqujPWNjQIg.PNG/%ED%9B%84%EB%B3%B42.png",
-    "id": 1756213348391,
+    "id": 1758306026503,
     "isLive": false,
     "liveCategory": null,
+    "poe1": 1,
+    "poe2": 0,
     "poeProfile": "UCONDUIT#4334",
     "streamUrl": "https://chzzk.naver.com/live/eca15d2adbee346e82a647904c1559fd",
     "streamer": "스텐다드QK"
   },
   {
-    "icon": "https://nng-phinf.pstatic.net/MjAyMzEyMjZfMjg1/MDAxNzAzNTU1NzczOTg0.BAc5Oqv9FzhG90Zw45cTnL5jBISckUJKVZ21jmXExsUg.HIzliB4IMvs5zzAifjuETxSghf0z4_qWUQ8w41fVTnEg.PNG/profile1.png",
-    "id": 1755958172257,
+    "icon": "https://nng-phinf.pstatic.net/MjAyNDAyMjBfMjI5/MDAxNzA4MzgzNDI3NjI2.-Jxe2rpGOObarVFM7vnxGgbtRcdwKO1uHguYiMZaVrIg.QUuumCQuW_DrDgs4dbjAirbTM0JwjbI3ozAt9a9k0jQg.JPEG/%ED%94%84%EB%A1%9C%ED%95%84.jpg",
+    "id": 1758306026504,
     "isLive": false,
     "liveCategory": null,
+    "poe1": 1,
+    "poe2": 0,
+    "poeProfile": "zellddo#4704",
+    "streamUrl": "https://chzzk.naver.com/live/6bc83d2a18d722a0b4d03917bde007d8",
+    "streamer": "젤또"
+  },
+  {
+    "icon": "https://nng-phinf.pstatic.net/MjAyMzEyMjZfMjg1/MDAxNzAzNTU1NzczOTg0.BAc5Oqv9FzhG90Zw45cTnL5jBISckUJKVZ21jmXExsUg.HIzliB4IMvs5zzAifjuETxSghf0z4_qWUQ8w41fVTnEg.PNG/profile1.png",
+    "id": 1758306026505,
+    "isLive": false,
+    "liveCategory": null,
+    "poe1": 1,
+    "poe2": 0,
     "poeProfile": "Trainner_kaki#3778",
     "streamUrl": "https://chzzk.naver.com/live/8eac3d6cdac51bbceb794196cd4e6a15",
     "streamer": "카키카키"
+  },
+  {
+    "icon": "https://nng-phinf.pstatic.net/MjAyNDA2MjhfMjQ5/MDAxNzE5NTUzNzMyODQ2.WsmXee0tZzSznaTHAWuRuZKjh1lvueuffQ94NxWAbCEg.V9A2wE317KTr14vS1HrJh3UBZ5i7PYmNBCXBUFXV8Qkg.PNG/%ED%88%AC%EB%B3%84.png",
+    "id": 1758306026506,
+    "isLive": false,
+    "liveCategory": null,
+    "poe1": 1,
+    "poe2": 0,
+    "poeProfile": "Twobyul#7829",
+    "streamUrl": "https://chzzk.naver.com/live/6dbe5f736cf47dbca1bc0c85c53070c7",
+    "streamer": "투별"
+  },
+  {
+    "icon": "https://nng-phinf.pstatic.net/MjAyNDAyMjZfMjU5/MDAxNzA4OTU1MDM1NDgz.FuRBV1guaiMo2G71Dj0QC1Fc0OBBEsqEjj-aZOEGzPUg.2LBtMx57nk3upEgAhBMmCwozdZlqDDgXwia6EoB-_D8g.JPEG/%EC%B1%84%EB%84%90%EC%95%84%ED%8A%B8.00_00_02_05.Still002.jpg",
+    "id": 1758306026507,
+    "isLive": false,
+    "liveCategory": null,
+    "poe1": 1,
+    "poe2": 0,
+    "poeProfile": "namsancoffee#1968",
+    "streamUrl": "https://chzzk.naver.com/live/0bb66c53d9435da1e87b4d8ab47fb1cf",
+    "streamer": "PoEasy"
+  },
+  {
+    "icon": "https://nng-phinf.pstatic.net/MjAyMzEyMjJfMTU0/MDAxNzAzMjE4MDU3ODEw.gPSJuTrycKkOBAwCmir61i3g75FITYplUbistuPiPHIg.X210ilOta9MWJFJn5C9x4HXycVtkHZnjj1UdYTeqSiog.JPEG/unnamed.jpg",
+    "id": 1758306026508,
+    "isLive": false,
+    "liveCategory": null,
+    "poe1": 1,
+    "poe2": 0,
+    "poeProfile": "rrqnrl2#4755",
+    "streamUrl": "https://chzzk.naver.com/live/e12f8c8ed9925b297a496431929bcdb1",
+    "streamer": "게이머비누Gamerbinu"
+  },
+  {
+    "icon": "https://nng-phinf.pstatic.net/MjAyMjEyMjdfMjUx/MDAxNjcyMTM4NTgwMjA0.OQHFipVeItE08HE6yvXrJWmXTU2CKSzCzEF2bq9Wsigg.XSveQ70mmhcimgalJd3Y5P7b-uwKwUuRwPi9xCz65wcg.GIF/logo_gif.gif",
+    "id": 1758306026509,
+    "isLive": false,
+    "liveCategory": null,
+    "poe1": 1,
+    "poe2": 0,
+    "poeProfile": "qweas2#3448",
+    "streamUrl": "https://chzzk.naver.com/live/c0879e746bb53ae852381b6f5ae1447f",
+    "streamer": "까까모리a"
+  },
+  {
+    "icon": "https://nng-phinf.pstatic.net/MjAyNTA5MTFfNTYg/MDAxNzU3NTI4ODEwNjEx.mQoVCA17kku-eFpXFT3xF7eKiWMKd-svumoykRaa22Yg.tb8tNYcWwQEO5Pc2dSG_zdvWtvFQBcNJgCMUnQDHjYAg.JPEG/image.jpg",
+    "id": 1758306026510,
+    "isLive": false,
+    "liveCategory": null,
+    "poe1": 1,
+    "poe2": 0,
+    "poeProfile": "catseye77#5297",
+    "streamUrl": "https://chzzk.naver.com/live/94261091315edf223e0234a5e963c398",
+    "streamer": "catseye 캐츠아이"
+  },
+  {
+    "icon": "https://nng-phinf.pstatic.net/MjAyNDAyMTFfMjYz/MDAxNzA3NjUwNjQ4NDQ3.UhsPgElhScIrcifbQhPa7Xzd0xnwW_GfP4nf002pIvcg.NInIQjkI2tQ-ECZ6G87A6o8FKDcdWNu2npXvgjWMQ60g.PNG/%ED%94%84%EB%A1%9C%ED%95%84_%EC%9D%B4%EB%AF%B8%EC%A7%801.png",
+    "id": 1758306026511,
+    "isLive": false,
+    "liveCategory": null,
+    "poe1": 1,
+    "poe2": 0,
+    "poeProfile": "farmerB#2165",
+    "streamUrl": "https://chzzk.naver.com/live/5668dc8d852f99ab1d81bd24089b0716",
+    "streamer": "파머비"
+  },
+  {
+    "icon": "https://nng-phinf.pstatic.net/MjAyNDAxMDFfMjE1/MDAxNzA0MDY0MzEzNzM2.L1n2rAV1ZC8noi2nJpQDQhGCYInaajMieDhtUQMrRD8g.oEkQyEC3Qg6Dv0tXWk07BORQz18YzeUg6yLg3zPOsREg.GIF/22222222222222.gif",
+    "id": 1758429681071,
+    "isLive": false,
+    "liveCategory": null,
+    "poe1": 1,
+    "poe2": 0,
+    "poeProfile": "GeniusMAD#5047",
+    "streamUrl": "https://chzzk.naver.com/live/9e731707f6524b88436c5b3ede3a9848",
+    "streamer": "지니어스매드"
   }
 ]
