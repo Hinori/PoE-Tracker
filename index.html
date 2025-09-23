@@ -129,16 +129,17 @@
             <li>(추가)
                 <strong>poe-tracker.pages.dev:</strong>
                 <ul>
-                    <li>GitHub의 최신 Commit Hash값을 확인하기 위해 CloudFlare CDN을 통해 (<code>https://poe-tracker.pages.dev/</code>)에 정보를 요청합니다.</li>
-                    <li><strong>이 과정에서 사용자의 어떠한 데이터도 CloudFlare CDN으로 전송되지 않습니다.</strong> 단순히 공개된 추천 스트리머 목록과 공지사항의 최신 Commit Hash값을 내려받는 단방향 통신입니다.</li>
+                    <li>서비스 관리 페이지의 '추천 스트리머 목록 업데이트' 기능은 사전에 동의를 받은 추천 스트리머 목록(JSON 파일)을 불러오기 위해 CloudFlare CDN을 통해 (<code>https://poe-tracker.pages.dev/</code>)에 정보를 요청합니다.</li>
+                    <li>서비스 팝업 페이지의 '공지사항' 기능은 CloudFlare CDN을 통해 (<code>https://poe-tracker.pages.dev/</code>)에 정보를 요청합니다.</li>
+                    <li><strong>이 과정에서 사용자의 어떠한 데이터도 CloudFlare CDN으로 전송되지 않습니다.</strong> 단순히 공개된 공지사항 및 추천 스트리머 목록을 내려받는 단방향 통신입니다.</li>
                 </ul>
             </li>
-            <li>(수정)
+            <li>(삭제)
                 <strong>GitHub:</strong>
                 <ul>
-                    <li>서비스 관리 페이지의 '추천 스트리머 목록 업데이트' 기능은 사전에 동의를 받은 추천 스트리머 목록(JSON 파일)을 불러오기 위해 jsdelivr CDN을 통해 GitHub 서버(<code>https://cdn.jsdelivr.net/gh/Hinori/</code>)에 정보를 요청합니다.</li>
+                    <li>서비스 관리 페이지의 '개발자 GitHub에서 목록 업데이트' 기능은 사전에 동의를 받은 추천 스트리머 목록(JSON 파일)을 불러오기 위해 jsdelivr CDN을 통해 GitHub 서버(<code>https://cdn.jsdelivr.net/gh/Hinori/</code>)에 정보를 요청합니다.</li>
                     <li>서비스 팝업 페이지의 '공지사항' 기능은 jsdelivr CDN을 통해 GitHub 서버 (<code>https://cdn.jsdelivr.net/gh/Hinori/</code>)에 정보를 요청합니다.</li>
-                    <li><strong>이 과정에서 사용자의 어떠한 데이터도 GitHub로 전송되지 않습니다.</strong> 단순히 공개된 공지사항 및 추천 스트리머 목록을 내려받는 단방향 통신입니다.</li>
+                    <li><strong>이 과정에서 사용자의 어떠한 데이터도 GitHub로 전송되지 않습니다.</strong> 단순히 공개된 추천 목록을 내려받는 단방향 통신입니다.</li>
                 </ul>
             </li>
         </ul>
