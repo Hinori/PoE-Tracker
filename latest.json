@@ -1,4 +1,4 @@
 {
-  "noticeHtmlUrl": "https://cdn.jsdelivr.net/gh/hinori/PoE-Tracker@test/notice.html",
-  "streamerListJsonUrl": "https://cdn.jsdelivr.net/gh/hinori/PoE-Tracker@test/streamer_list.json"
+  "noticeHtmlUrl": "https://cdn.jsdelivr.net/gh/hinori/PoE-Tracker@7d6cd29627293965a88da6699ef8a227f059a7c1/notice.html",
+  "streamerListJsonUrl": "https://cdn.jsdelivr.net/gh/hinori/PoE-Tracker@c047facd47ec27ed4aa9bd14deddc654bb2664ab/streamer_list.json"
 }
